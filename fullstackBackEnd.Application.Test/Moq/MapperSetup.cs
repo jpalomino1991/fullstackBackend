@@ -1,0 +1,29 @@
+﻿using AutoMapper;
+using fullstackBackend.Application.Common.Mapping;
+
+namespace fullstackBackEnd.Application.Test.Moq
+{
+   public class MapperSetup
+   {
+      private static readonly object SyncObj = new object();
+      private static bool _created;
+      private static IMapper _mapper;
+
+      public static IMapper InitMappings()
+      {
+         lock (SyncObj)
+            if (!_created)
+            {
+               var config = new MapperConfiguration(cfg =>
+               {
+                  cfg.AddProfile<EmployeeMaps>();
+               });
+
+               _mapper = config.CreateMapper();
+               _created = true;
+            }
+
+         return _mapper;
+      }
+   }
+}
