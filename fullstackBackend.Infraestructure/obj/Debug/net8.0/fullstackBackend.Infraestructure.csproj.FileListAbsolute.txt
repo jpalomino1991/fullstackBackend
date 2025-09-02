@@ -1,0 +1,17 @@
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Infraestructure\bin\Debug\net8.0\fullstackBackend.Infraestructure.deps.json
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Infraestructure\bin\Debug\net8.0\fullstackBackend.Infraestructure.runtimeconfig.json
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Infraestructure\bin\Debug\net8.0\fullstackBackend.Infraestructure.dll
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Infraestructure\bin\Debug\net8.0\fullstackBackend.Infraestructure.pdb
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Infraestructure\bin\Debug\net8.0\fullstackBackend.Domain.dll
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Infraestructure\bin\Debug\net8.0\fullstackBackend.Domain.pdb
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Infraestructure\obj\Debug\net8.0\fullstackBackend.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Infraestructure\obj\Debug\net8.0\fullstackBackend.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Infraestructure\obj\Debug\net8.0\fullstackBackend.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Infraestructure\obj\Debug\net8.0\fullstackBackend.Infraestructure.AssemblyInfo.cs
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Infraestructure\obj\Debug\net8.0\fullstackBackend.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Infraestructure\obj\Debug\net8.0\fullstac.EAAEC4CC.Up2Date
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Infraestructure\obj\Debug\net8.0\fullstackBackend.Infraestructure.dll
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Infraestructure\obj\Debug\net8.0\refint\fullstackBackend.Infraestructure.dll
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Infraestructure\obj\Debug\net8.0\fullstackBackend.Infraestructure.pdb
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Infraestructure\obj\Debug\net8.0\fullstackBackend.Infraestructure.genruntimeconfig.cache
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Infraestructure\obj\Debug\net8.0\ref\fullstackBackend.Infraestructure.dll

@@ -1,0 +1,11 @@
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Domain\bin\Debug\net8.0\fullstackBackend.Domain.deps.json
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Domain\bin\Debug\net8.0\fullstackBackend.Domain.dll
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Domain\bin\Debug\net8.0\fullstackBackend.Domain.pdb
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Domain\obj\Debug\net8.0\fullstackBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Domain\obj\Debug\net8.0\fullstackBackend.Domain.AssemblyInfoInputs.cache
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Domain\obj\Debug\net8.0\fullstackBackend.Domain.AssemblyInfo.cs
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Domain\obj\Debug\net8.0\fullstackBackend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Domain\obj\Debug\net8.0\fullstackBackend.Domain.dll
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Domain\obj\Debug\net8.0\refint\fullstackBackend.Domain.dll
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Domain\obj\Debug\net8.0\fullstackBackend.Domain.pdb
+C:\Users\Jairo\Documents\GitHub\fullstackBackend\fullstackBackend.Domain\obj\Debug\net8.0\ref\fullstackBackend.Domain.dll
